@@ -32,9 +32,4 @@ border-radius: 5em;
     border: 1px solid;
 }
 
-@media (min-width: 960px) {
-/*apply this css whe the page is wider than 960*/
-    body {
-        background-color: white;
-    }
-}
+
